@@ -2,7 +2,6 @@
 .vscode/
 __pycache__/
 *.log
-*.db
 *.docx
 *.mp4
 /venv/  # Ak používaš virtuálne prostredie v Pythone
